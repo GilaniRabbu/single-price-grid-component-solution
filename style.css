@@ -34,6 +34,10 @@ body {
     height: 100vh;
 }
 
+h2 {
+    font-size: 1.05rem;
+}
+
 main {
     width: 550px;
     max-width: 100%;
