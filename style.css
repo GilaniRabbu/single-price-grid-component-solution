@@ -4,7 +4,7 @@
   --color-accent: hsl(71, 73%, 54%);
   --color-accent-hover: hsl(71, 72%, 53%);
   --color-text: hsl(218, 22%, 67%);
-  --color-white: hsl(204, 43%, 93%);
+  --color-white: hsl(0, 0%, 100%);
   --color-bg: hsl(206, 47%, 93%);
 }
 
@@ -81,7 +81,7 @@ body {
 }
 
 .subscription__period {
-  color: rgba(255, 255, 255, 0.7);
+  color: hsla(0, 0%, 100%, 0.7);
 }
 
 .subscription__description {
