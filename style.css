@@ -32,7 +32,7 @@ body {
 }
 
 .card__header {
-  padding: 2rem;
+  padding: 2.5rem;
 }
 
 .card__title {
@@ -59,7 +59,7 @@ body {
 
 .subscription {
   background: var(--color-primary);
-  padding: 2rem;
+  padding: 2.07rem 2.5rem;
   color: var(--color-white);
 }
 
@@ -110,7 +110,7 @@ body {
 .features {
   background: var(--color-primary-light);
   color: var(--color-white);
-  padding: 2rem;
+  padding: 2.07rem 2.5rem;
 }
 
 .features__title {
